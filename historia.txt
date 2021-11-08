@@ -1,1 +1,3 @@
-esta es una historia simple quie quiero empezar 1 archivo git
+esta es una historia simple quiero quiero empezar 1 archivo git
+
+para empezar con proyecto mas complejos con sistemas utiles 
